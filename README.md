@@ -1,2 +1,1 @@
-# matplotlib
-Module 5 Challenge
+# madplotlib-challenge
